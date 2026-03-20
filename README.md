@@ -83,4 +83,4 @@ Build an interactive dashboard
 
 👤 Author
 
-Ujjawal Kumar
+Gaurav Mali
